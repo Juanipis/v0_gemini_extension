@@ -11,7 +11,7 @@ An extension for the [Gemini CLI](https://geminicli.com) that integrates [v0.dev
 ## Installation
 
 ```bash
-gemini extensions install https://github.com/juanipis/v0-gemini-extension
+gemini extensions install https://github.com/Juanipis/v0_gemini_extension
 ```
 
 *Note: Replace the URL with your actual repository URL.*
@@ -23,7 +23,7 @@ During installation, you will be prompted to provide your **v0 API Key**. You ca
 To update your v0 API Key at any time:
 
 ```bash
-gemini extensions config v0-gemini-extension
+gemini extensions config v0_gemini_extension
 ```
 
 ## Usage
