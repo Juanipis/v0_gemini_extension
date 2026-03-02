@@ -1,6 +1,6 @@
 {
   "name": "v0-gemini-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Gemini CLI extension for v0.dev. Access v0's AI-powered code generation and design expertise directly from your CLI.",
   "settings": [
     {
